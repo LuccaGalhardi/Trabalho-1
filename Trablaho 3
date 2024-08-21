@@ -22,12 +22,13 @@ public class Olá, Mundo! {
         System.out.println("Olá, mundo!");
     }
 }
+https://onecompiler.com/cpp?gad_source=1&gclid=CjwKCAjwoJa2BhBPEiwA0l0ImB601Fo6WADobZPfd-_4q8e_nhONc0aw0tg2UqNov9_kTB6O3JI5WhoC-WgQAvD_BwE
 
 PHYTON: 
 Copy code
 # Exemplo em Phyton: Olá, Mundo! 
 print("Olá, Mundo!")
-
+https://www.mycompiler.io/pt/new/python
 
 C++: 
 #include <iostream> // Inclui a biblioteca padrão de entrada e saída
@@ -36,3 +37,4 @@ int main() {
     std::cout << "Hello, World!" << std::endl; // Exibe a mensagem no console
     return 0; // Retorna 0 para indicar que o programa terminou com sucesso
 }
+https://www.mycompiler.io/pt/new/cpp
