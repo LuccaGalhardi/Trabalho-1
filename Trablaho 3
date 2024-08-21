@@ -30,13 +30,9 @@ print("Olá, Mundo!")
 
 
 C++: 
-cpp
-Copy code
-// Exemplo em C++: Olá, Mundo!
-#include <iostream>
-using namespace std;
+#include <iostream> // Inclui a biblioteca padrão de entrada e saída
 
 int main() {
-    std::cout << "Olá, mundo!" << std::endl;
-    return 0; 
+    std::cout << "Hello, World!" << std::endl; // Exibe a mensagem no console
+    return 0; // Retorna 0 para indicar que o programa terminou com sucesso
 }
