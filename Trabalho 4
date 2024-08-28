@@ -1,1 +1,17 @@
+marcas = ["Bmw", "Volvo", "Mercedes", "Fiat", "Citroen", "Hyundai"]
 
+print("Marcas de carros:")
+for marca in marcas:
+    print(marca)
+Prova: https://www.programiz.com/online-compiler/1nSgFpIQ9mONv
+
+
+
+idade = 18
+
+if idade >= 18 and idade < 25:
+    print("Você já pode tirar a carteira de motorista")
+elif idade >= 25 and idade < 80:
+    print("Você não pode tirar a sua carteira de motorista")
+
+Prova: https://www.programiz.com/online-compiler/8MLcBp4k0nccZ
